@@ -1,5 +1,5 @@
 {
-  "name": "gamehub-support-code",
+  "name": "java-discord-bot",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,10 @@
   "author": "BassoMC",
   "license": "ISC",
   "dependencies": {
+    "canvas": "^2.9.1",
     "discord.js": "^13.6.0",
-    "dotenv": "^16.0.0"
+    "dotenv": "^16.0.0",
+    "mongoose": "^6.3.1",
+    "reconlx": "^2.5.2"
   }
 }
